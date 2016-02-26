@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libellusdevitaet00regi/libellusdevitaet00regi_0008.png"; bbox 0 0 1839 3186; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1828 3186">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1828 3186">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1828 3186; baseline 0 -298"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1828 3186; x_wconf 95' lang='lat' dir='ltr'>        </span> <span class='ocrx_word' id='word_1_2' title='bbox 941 2700 1828 2888; x_wconf 95' lang='lat' dir='ltr'>     </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 789 2711 941 2734">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 789 2711 941 2734">
+     <span class='ocr_line' id='line_1_2' title="bbox 789 2711 941 2734; baseline 0.007 -2"><span class='ocrx_word' id='word_1_3' title='bbox 789 2711 923 2734; x_wconf 88' lang='lat' dir='ltr'>LONDON</span> <span class='ocrx_word' id='word_1_4' title='bbox 933 2714 941 2734; x_wconf 88' lang='lat'>:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 421 2756 1319 2844">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 421 2756 1319 2844">
+     <span class='ocr_line' id='line_1_3' title="bbox 421 2756 1319 2796; baseline 0 -8"><span class='ocrx_word' id='word_1_5' title='bbox 421 2766 576 2788; x_wconf 72' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_6' title='bbox 600 2765 644 2787; x_wconf 70' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_7' title='bbox 660 2766 685 2788; x_wconf 88' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_8' title='bbox 697 2756 728 2787; x_wconf 69' lang='grc' dir='ltr'>ὅτ,</span> <span class='ocrx_word' id='word_1_9' title='bbox 742 2765 768 2787; x_wconf 87' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_10' title='bbox 784 2765 956 2796; x_wconf 66' lang='grc' dir='ltr'><strong>ΒΕΝΤιΕςῑ,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 971 2757 1115 2796; x_wconf 51' lang='grc' dir='ltr'>νγῌῶοΝ,4</span> <span class='ocrx_word' id='word_1_12' title='bbox 1132 2765 1203 2788; x_wconf 75' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_13' title='bbox 1219 2757 1319 2796; x_wconf 70' lang='lat' dir='ltr'>FL&#39;EY,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 555 2804 1074 2844; baseline 0.004 -10"><span class='ocrx_word' id='word_1_14' title='bbox 555 2804 558 2807; x_wconf 69' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 659 2809 770 2842; x_wconf 84' lang='lat' dir='ltr'>Bangor</span> <span class='ocrx_word' id='word_1_16' title='bbox 785 2810 889 2844; x_wconf 77' lang='lat' dir='ltr'>House,</span> <span class='ocrx_word' id='word_1_17' title='bbox 905 2809 977 2836; x_wconf 81' lang='lat' dir='ltr'>shoe</span> <span class='ocrx_word' id='word_1_18' title='bbox 990 2811 1074 2836; x_wconf 65' lang='lat' dir='ltr'>Lanu.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
